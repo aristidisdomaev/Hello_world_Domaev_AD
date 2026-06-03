@@ -1,0 +1,26 @@
+ls -lah /
+
+total 10
+drwxr-xr-x  22 root  wheel   704B Aug 16  2025 .
+drwxr-xr-x  22 root  wheel   704B Aug 16  2025 ..
+lrwxr-xr-x   1 root  admin    36B Aug 16  2025 .VolumeIcon.icns -> System/Volumes/Data/.VolumeIcon.icns
+----------   1 root  admin     0B Aug 16  2025 .file
+drwxr-xr-x   2 root  wheel    64B Aug 16  2025 .nofollow
+drwxr-xr-x   2 root  wheel    64B Aug 16  2025 .resolve
+drwxr-xr-x   2 root  wheel    64B Aug 16  2025 .vol
+drwxrwxr-x  24 root  admin   768B Mar 12 00:05 Applications
+drwxr-xr-x  67 root  wheel   2.1K Feb 10 20:34 Library
+drwxr-xr-x@ 10 root  wheel   320B Aug 16  2025 System
+drwxr-xr-x   5 root  admin   160B Aug 21  2025 Users
+drwxr-xr-x   3 root  wheel    96B Mar 24 13:41 Volumes
+drwxr-xr-x@ 39 root  wheel   1.2K Aug 16  2025 bin
+drwxr-xr-x   2 root  wheel    64B Dec  7  2024 cores
+dr-xr-xr-x   4 root  wheel   4.6K Mar 24 13:41 dev
+lrwxr-xr-x@  1 root  wheel    11B Aug 16  2025 etc -> private/etc
+lrwxr-xr-x   1 root  wheel    25B Mar 24 13:41 home -> /System/Volumes/Data/home
+drwxr-xr-x   3 root  wheel    96B Feb 10 19:40 opt
+drwxr-xr-x   6 root  wheel   192B Mar 24 13:41 private
+drwxr-xr-x@ 76 root  wheel   2.4K Aug 16  2025 sbin
+lrwxr-xr-x@  1 root  wheel    11B Aug 16  2025 tmp -> private/tmp
+drwxr-xr-x@ 11 root  wheel   352B Aug 16  2025 usr
+lrwxr-xr-x@  1 root  wheel    11B Aug 16  2025 var -> private/var
